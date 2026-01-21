@@ -150,9 +150,7 @@ Centralized error handling
 
 No sensitive data exposure
 
-🎯 Interview-Ready Explanation
 
-“This authentication system uses short-lived JWT access tokens stored in HttpOnly cookies for secure API access. Refresh tokens are used to silently renew access tokens, preventing session hijacking and XSS attacks.”
 
 📌 Future Improvements
 
