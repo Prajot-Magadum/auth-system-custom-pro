@@ -167,5 +167,5 @@ OAuth (Google/GitHub login)
 👤 Author
 
 Prajot Magadum
-Computer Science Engineering Student
+Information Science Engineering Student
 Backend & Full-Stack Development Enthusiast
